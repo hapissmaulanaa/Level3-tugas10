@@ -1,5 +1,4 @@
 # Level3-tugas10
-<p>============================================================================================</p>
 <img width="1280" alt="tampilan_umum" src="https://user-images.githubusercontent.com/110292710/198054526-062987c4-9dc7-4e52-a092-d081b9c6b15b.png">
 <h1>Tampilan Umum</h1>
 <img width="1280" alt="tampilan_tambah" src="https://user-images.githubusercontent.com/110292710/198054511-c9f84296-b54d-4584-a6d9-5e22bfb6de10.png">
